@@ -1,0 +1,116 @@
+Body {
+    background-color: #F5ECF4;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+h1 {
+	color: rgb(72,181,163);
+	letter-spacing: 3px;
+	text-shadow: 3px 3px rgb(179,226,221);
+}
+
+h3 {
+	letter-spacing: 3px;
+	text-decoration: wavy underline;
+	color: rgb(134,207,190);
+}
+
+h4 {
+	color: rgb(165,137,193);
+	font-size: 25px;
+	text-shadow: 2px 2px rgb(221,212,232);
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+h5 {
+	color: rgb(117,137,191);
+	font-size: 17px;
+	font-style: bolder;
+	font-weight: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+p {
+	color: rgb(65,75,86);
+}
+
+img {
+	height: 160px;
+	border-radius: 50px;
+	border: dotted;
+	border-color: rgb(179,226,221);
+}
+
+div {
+	display: block;
+}
+
+.card_white {
+    padding: 10px;
+	margin: 20px auto;
+	width: 720px;
+	box-shadow: 0px 15px 30px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: white;
+	text-align: center;
+}
+
+ol {
+	list-style: none;
+	color: dimgray;
+	font-family: 'Poppins', sans-serif;
+    text-align: center
+    font-size: larger;
+    padding-left: 0px;
+}
+
+.btn {
+	background-color: rgb(148,168,208);
+    color: white;
+    padding: 8px 13px;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.5;
+}
+
+.btn:hover {
+	background-color: rgb(191,213,232);
+	color: rgb(117,137,191);
+}
+
+.btn:active {
+	background-color: rgb(191,213,232);
+	border-radius: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(111,183,214);
+}
+
+a:hover {
+	color: rgb(193,179,215);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
